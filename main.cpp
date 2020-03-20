@@ -11,6 +11,8 @@ int main()
     {
 
 
+    
+        cout << "Zmiana" << endl;
 
         srand(time(NULL));
         liczba = rand() % 100 + 1;
